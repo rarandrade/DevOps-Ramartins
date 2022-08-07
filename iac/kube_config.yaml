@@ -15,4 +15,4 @@ preferences: {}
 users:
 - name: do-nyc1-k8s-iniciativa-devops-admin
   user:
-    token: dop_v1_3821bc71315e7d939ee093f6b6c33342addf2b31de9660f556e95718d2d7d581
+    token: dop_v1_e5b439422c64f4ae5e90bbaef0afbe2a95d9943cf7af4f1cfb8dd30b36ff03f8
