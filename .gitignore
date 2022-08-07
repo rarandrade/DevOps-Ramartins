@@ -3,8 +3,3 @@ node_modules
 iac/kube_config.yaml
 iac/terraform.tfvars
 iac/main.tf
-
-
-
-
-iac/kube_config.yaml
