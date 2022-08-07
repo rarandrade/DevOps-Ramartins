@@ -34,6 +34,6 @@ jobs:
             context: kube-news/src/
             push: true
             tags: |
-                rarandrade/kube-news:latest
-                rarandrade/kube-news:${{github.run_number}}
+                rarandrade/kube-news-aula4:latest
+                rarandrade/kube-news-aula4:${{github.run_number}}
     
